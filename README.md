@@ -1,0 +1,3 @@
+> **_NOTE:_**  Please note that i removed all the sound files and deleted the git history for copyright resons. This repository is only for showcasing the algorithms. 
+
+For my Unreal Engine 4 project, I created an immersive 3D sound world where users can explore a virtual environment and experience spatial audio dynamics. I designed various soundscapes that react to the player's movements and interactions, simulating how sound behaves in different physical spaces. The project involved creating custom audio assets, programming player controls, and implementing real-time sound processing effects. The aim was to enhance the user's sensory experience, blending visual and auditory elements to create a more engaging and explorative atmosphere.
